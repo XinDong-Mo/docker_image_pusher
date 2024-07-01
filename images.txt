@@ -1,1 +1,2 @@
 aoshiguchen/neutrino-proxy-server:latest
+nginx:latest
