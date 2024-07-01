@@ -1,2 +1,6 @@
 aoshiguchen/neutrino-proxy-server:latest
+aoshiguchen/neutrino-proxy-client:latest
 nginx:latest
+openjdk:21-jdk-oracle
+eclipse-temurin:8-jre
+
