@@ -4,4 +4,4 @@ nginx:latest
 openjdk:21-jdk-oracle
 eclipse-temurin:8-jre
 mysql:latest
-
+mongo:latest
