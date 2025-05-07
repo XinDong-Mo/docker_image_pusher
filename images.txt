@@ -1,1 +1,1 @@
-sakoo123/modelscope:1.0
+eclipse-temurin:8-jdk
