@@ -1,1 +1,1 @@
-eclipse-temurin:8-jdk
+rabbitmq:management
